@@ -1,0 +1,6 @@
+import model sm-ckm_no_b_mass
+
+generate p p > h a
+
+output Hgamma_LO -nojpeg
+
